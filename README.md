@@ -48,7 +48,7 @@ This README is my little portfolio-in-progress ✨
   <ul>
     <li>💡 Always curious, always learning</li>
     <li>☕ Coffee = my coding fuel</li>
-    <li>🎮 I relax by gaming, podcasts, and funnily enough, going gym! </li>
+    <li>🎮  I relax with gaming, podcasts, and (funnily enough) going to the gym! </li>
   </ul>
 </details>
 
