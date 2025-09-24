@@ -12,7 +12,7 @@
 <h2 align="center">🚀 About Me</h2>
 
 <p align="center">
-I’m on a journey to become a full-stack developer.  
+I’m on a journey to become a front-end developer.  
 I enjoy learning new technologies, solving problems, and building projects that bring ideas to life.  
 This README is my little portfolio-in-progress ✨
 </p>
@@ -48,7 +48,7 @@ This README is my little portfolio-in-progress ✨
   <ul>
     <li>💡 Always curious, always learning</li>
     <li>☕ Coffee = my coding fuel</li>
-    <li>🎮  I relax with gaming, podcasts, and (funnily enough) going to the gym! </li>
+    <li>🎮 I relax with gaming, podcasts, cooking and (funnily enough) going to the gym! </li>
   </ul>
 </details>
 
