@@ -4,7 +4,7 @@
 
 <p align="center">
   🎓 Currently enrolled on a <b>Full-Stack Software Development</b> course with <a href="https://techeducators.co.uk/">Tech Educators</a><br/>
-  🌍 Based in Leicester · 💻 Aspiring Full-Stack Developer
+  🌍 Based in Leicester · 💻 Aspiring Front-end Developer
 </p>
 
 ---
