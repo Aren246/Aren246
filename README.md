@@ -1,5 +1,5 @@
 <!-- ===== Portfolio-Style GitHub README ===== -->
-<h1 align="center">👋 Hey, I'm Aren</h1>
+<h1 align="center">Hello, I'm Aren</h1>
 <p align="center">
   🎓 <b>Full-Stack Software Development</b> graduate from <a href="https://techeducators.co.uk/">Tech Educators</a><br/>
   🌍 Based in Leicester · 💻 Junior Software Developer | Aspiring Front-end Developer
