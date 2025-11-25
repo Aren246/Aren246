@@ -28,11 +28,10 @@ This README is my portfolio-in-progress ✨
 </p>
 
 ---
-
 <h2 align="center">📊 GitHub Stats</h2>
 <p align="center">
-  <img alt="GitHub Stats" height="160" src="https://github-readme-stats.vercel.app/api?username=Aren246&show_icons=true&theme=tokyonight" />
-  <img alt="Top Languages" height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aren246&layout=compact&theme=tokyonight" />
+  <img alt="GitHub Stats" height="160" src="https://github-readme-stats-sigma-five.vercel.app/api?username=Aren246&show_icons=true&theme=tokyonight" />
+  <img alt="Top Languages" height="160" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Aren246&layout=compact&theme=tokyonight" />
 </p>
 
 ---
