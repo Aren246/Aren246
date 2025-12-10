@@ -9,9 +9,7 @@
 
 <h2 align="center">🚀 About Me</h2>
 <p align="center">
-Motivated to transition into a challenging career where I can continuously apply and develop my skills, I entered the field of software development. I am now a junior software developer on a journey to specialise in front-end development.
-
-I love learning new technologies, developing efficient solutions, and building projects that bring ideas to life. This README serves as my portfolio-in-progress! ✨
+Motivated to transition into a challenging career where I can continuously apply and develop my skills, I entered the field of software development. I am now a junior software developer on a journey to specialise in front-end development. I love learning new technologies, developing efficient solutions, and building projects that bring ideas to life. This README serves as my portfolio-in-progress! ✨
 </p>
 
 ---
